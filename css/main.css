@@ -1,6 +1,11 @@
 .header {
     background-color: #12448d;
 }
-/*.nav-link {*/
-/*    color: #ffffff;*/
-/*}*/
+.news {
+    border: solid 1px;
+    border-radius: 3px;
+    color: #dee2e6;
+}
+.table {
+    margin-bottom: unset;
+}
